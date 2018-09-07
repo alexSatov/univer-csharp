@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Root", "Root\Root.csproj", "{20702483-B2E2-4F08-A266-945AD67BC507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomRootFinder", "Root.Finder\PolynomRootFinder.csproj", "{E1EBC6F6-0030-4643-97DB-9A87E085EEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Root.Tests", "Root.Tests\Root.Tests.csproj", "{881F2FA7-FF7F-4D05-BD0C-B6900176F2E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20702483-B2E2-4F08-A266-945AD67BC507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20702483-B2E2-4F08-A266-945AD67BC507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20702483-B2E2-4F08-A266-945AD67BC507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20702483-B2E2-4F08-A266-945AD67BC507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1EBC6F6-0030-4643-97DB-9A87E085EEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EBC6F6-0030-4643-97DB-9A87E085EEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EBC6F6-0030-4643-97DB-9A87E085EEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EBC6F6-0030-4643-97DB-9A87E085EEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881F2FA7-FF7F-4D05-BD0C-B6900176F2E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881F2FA7-FF7F-4D05-BD0C-B6900176F2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881F2FA7-FF7F-4D05-BD0C-B6900176F2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881F2FA7-FF7F-4D05-BD0C-B6900176F2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

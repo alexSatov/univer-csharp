@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fields", "Fields\Fields.csproj", "{F9DEF233-B883-40E9-B171-9A08BED979DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldsDivider", "TextFields\FieldsDivider.csproj", "{1241D773-621E-4A4E-9EB7-6A90886956E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fields.Tests", "FieldsTests\Fields.Tests.csproj", "{2634DBF0-95D3-4A0E-A22D-E8491B6967F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9DEF233-B883-40E9-B171-9A08BED979DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9DEF233-B883-40E9-B171-9A08BED979DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9DEF233-B883-40E9-B171-9A08BED979DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9DEF233-B883-40E9-B171-9A08BED979DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1241D773-621E-4A4E-9EB7-6A90886956E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1241D773-621E-4A4E-9EB7-6A90886956E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1241D773-621E-4A4E-9EB7-6A90886956E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1241D773-621E-4A4E-9EB7-6A90886956E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2634DBF0-95D3-4A0E-A22D-E8491B6967F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2634DBF0-95D3-4A0E-A22D-E8491B6967F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2634DBF0-95D3-4A0E-A22D-E8491B6967F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2634DBF0-95D3-4A0E-A22D-E8491B6967F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

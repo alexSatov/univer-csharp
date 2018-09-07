@@ -1,0 +1,77 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M (ID=0xfe4)
+    Vendor:   NVIDIA
+    VRAM:     4066 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\CVARC.Core.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\CVARC.Core.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\Demo.General.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\Demo.General.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\Infrastructure.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\Infrastructure.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\Pudge.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\Pudge.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\RoboMovies.General.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\RoboMovies.General.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\TheBeachBots.General.dll (this message is harmless)
+Loading C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\TheBeachBots.General.dll into Unity Child Domain
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.096 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2760 -> priority: 1 
+Platform assembly: C:\Users\aleks\Desktop\Инст\C#\Практики\2 семестр\Практика 20-22 - Pudge Wars\Cvarc\Unity_Data\Managed\System.ServiceModel.Web.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.575563 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 223.
+Total: 0.395340 ms (FindLiveObjects: 0.020115 ms CreateObjectMapping: 0.014368 ms MarkObjects: 0.342382 ms  DeleteObjects: 0.011494 ms)
+
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.946015 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 737.
+Total: 4.883666 ms (FindLiveObjects: 0.082106 ms CreateObjectMapping: 0.045568 ms MarkObjects: 4.721506 ms  DeleteObjects: 0.032021 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.419561 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 738.
+Total: 3.742802 ms (FindLiveObjects: 0.052137 ms CreateObjectMapping: 0.050905 ms MarkObjects: 3.620464 ms  DeleteObjects: 0.017242 ms)
+
+game over. disposing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.706573 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 737.
+Total: 2.478780 ms (FindLiveObjects: 0.025863 ms CreateObjectMapping: 0.022168 ms MarkObjects: 2.411864 ms  DeleteObjects: 0.017652 ms)
+

@@ -1,0 +1,20 @@
+Unable to load web settings from file. Load default (off)
+Log server: Server started
+Multiplayer server: Server started
+network server: Server started
+network server: Client accepted
+World initialization finished!
+World loaded
+Exception: You have been disconnected from the server
+Time is Up
+Time is Up
+network server: Client accepted
+World initialization finished!
+World loaded
+Exception: You have been disconnected from the server
+Time is Up
+Time is Up
+GLOBAL EXIT
+Multiplayer server: Server Exited
+Log server: Server Exited
+network server: Server Exited

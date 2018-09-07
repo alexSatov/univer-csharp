@@ -1,0 +1,13 @@
+ if (!e.Contains('\"') && !e.Contains('\''))
+                {
+                    var splitLine = e.Split(' ');
+                    for (int i = 0; i < splitLine.Length; i++)
+                        lineFields.Add(splitLine[i]);                    
+                }
+                else
+                {
+
+
+if (field.Length > 0)
+                            lineFields.Add(field.ToString());
+                            field.Clear();
